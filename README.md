@@ -8,12 +8,10 @@ psych engine but with new things and idk
 
 # PEbD Engine Credits:
 
-   weuz_ - Coding
+   @GreenSoupDeveloper - Programmer, Artist, Musician, and creator.
    
-   nelifs - Coding and Design
-   
-   Cooljer - Arts
-   
+   ....and anyone more
+  
 # PEbD Engine Special Thanks
 
    anyone :(
