@@ -14,7 +14,7 @@ the discord srvr: https://discord.gg/VH2Ng3BTsJ
    
    ....and anyone more
   
-# PEbD Engine Special Thanks
+## PEbD Engine Special Thanks
 
    anyone :(
    
@@ -26,7 +26,7 @@ the discord srvr: https://discord.gg/VH2Ng3BTsJ
    
    Yoshubs - Assistant Programmer
    
-# Psych Engine Special Thanks
+## Psych Engine Special Thanks
 
    bbpanzu - Ex-Programmer
    
@@ -47,7 +47,7 @@ the discord srvr: https://discord.gg/VH2Ng3BTsJ
    Nebula the Zorua - LUA JIT Fork and some Lua reworks & VCR Shader code
 
 
-#Features:
+# Features:
 
 
 
