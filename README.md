@@ -5,9 +5,7 @@
 
 a new modification of Psych Engine for make better mods of fnf!.
 
-psych engine but with new things and idk
-
-the discord srvr: https://discord.gg/VH2Ng3BTsJ
+The Discord Server!: https://discord.gg/VH2Ng3BTsJ
 
 ## Installation:
 
@@ -33,7 +31,7 @@ If you want video support on your mod, simply do haxelib install hxCodec on a Co
   
 ### PEbD Engine Special Thanks
 
-º   anyone :(
+º   anyone...
    
 ## Psych Engine Credits:
 
@@ -68,7 +66,7 @@ If you want video support on your mod, simply do haxelib install hxCodec on a Co
 
 
 
-not now
+In development :|
 
 
 
