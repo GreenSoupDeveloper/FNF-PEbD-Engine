@@ -8,43 +8,43 @@ psych engine but with new things and idk
 
 the discord srvr: https://discord.gg/VH2Ng3BTsJ
 
-#@ PEbD Engine Credits:
+## PEbD Engine Credits:
 
-   GreenSoupDeveloper (me) - Programmer, Artist, Musician, and creator.
+º   GreenSoupDeveloper (me) - Programmer, Artist, Musician, and creator.
    
-   ....and anyone more
+º   ....and anyone more
   
 ### PEbD Engine Special Thanks
 
-   anyone :(
+º   anyone :(
    
 ## Psych Engine Credits:
 
-   Shadow Mario - Programmer
+º   Shadow Mario - Programmer
    
-   RiverOaken - Artist
+º   RiverOaken - Artist
    
-   Yoshubs - Assistant Programmer
+º   Yoshubs - Assistant Programmer
    
 ### Psych Engine Special Thanks
 
-   bbpanzu - Ex-Programmer
+º   bbpanzu - Ex-Programmer
    
-   shubs - New Input System
+º   shubs - New Input System
    
-   SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform
+º   SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform
    
-   KadeDev - Fixed some cool stuff on Chart Editor and other PRs
+º   KadeDev - Fixed some cool stuff on Chart Editor and other PRs
    
-   iFlicky - Composer of Psync and Tea Time, also made the Dialogue Sounds  
+º   iFlicky - Composer of Psync and Tea Time, also made the Dialogue Sounds  
    
-   PolybiusProxy - .MP4 Video Loader Library (hxCodec)
+º   PolybiusProxy - .MP4 Video Loader Library (hxCodec)
    
-   Keoiki - Note Splash Animations
+º   Keoiki - Note Splash Animations
    
-   Smokey - Sprite Atlas Support
+º   Smokey - Sprite Atlas Support
    
-   Nebula the Zorua - LUA JIT Fork and some Lua reworks & VCR Shader code
+º   Nebula the Zorua - LUA JIT Fork and some Lua reworks & VCR Shader code
 
 
 # Features:
