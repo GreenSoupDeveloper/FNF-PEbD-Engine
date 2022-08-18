@@ -8,17 +8,17 @@ psych engine but with new things and idk
 
 the discord srvr: https://discord.gg/VH2Ng3BTsJ
 
-# PEbD Engine Credits:
+#@ PEbD Engine Credits:
 
    GreenSoupDeveloper (me) - Programmer, Artist, Musician, and creator.
    
    ....and anyone more
   
-## PEbD Engine Special Thanks
+### PEbD Engine Special Thanks
 
    anyone :(
    
-# Psych Engine Credits:
+## Psych Engine Credits:
 
    Shadow Mario - Programmer
    
@@ -26,7 +26,7 @@ the discord srvr: https://discord.gg/VH2Ng3BTsJ
    
    Yoshubs - Assistant Programmer
    
-## Psych Engine Special Thanks
+### Psych Engine Special Thanks
 
    bbpanzu - Ex-Programmer
    
