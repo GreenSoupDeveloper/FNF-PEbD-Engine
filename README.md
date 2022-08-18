@@ -6,9 +6,11 @@ a new modification of Psych Engine for make better mods of fnf!.
 
 psych engine but with new things and idk
 
+the discord srvr: https://discord.gg/VH2Ng3BTsJ
+
 # PEbD Engine Credits:
 
-   @GreenSoupDeveloper - Programmer, Artist, Musician, and creator.
+   GreenSoupDeveloper (me) - Programmer, Artist, Musician, and creator.
    
    ....and anyone more
   
