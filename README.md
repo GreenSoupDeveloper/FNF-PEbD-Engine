@@ -31,7 +31,7 @@ If you want video support on your mod, simply do haxelib install hxCodec on a Co
   
 ### PEbD Engine Special Thanks
 
-º   anyone...
+º   Kade Engine - For the Kade Engine stuff.
    
 ## Psych Engine Credits:
 
