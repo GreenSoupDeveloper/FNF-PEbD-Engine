@@ -84,7 +84,8 @@ The function of the link case its like the donate case literally. (if you want, 
 
 The link editor its for the link case, in the link editor you can put the link who do you want for the link case. (That happends in a future update)
 
-
+Conceptual Art:
+![conceptualartlink](https://user-images.githubusercontent.com/109924369/185999819-e5246ec4-94cd-4e37-b5a7-6d7098034658.png)
 
 
 
