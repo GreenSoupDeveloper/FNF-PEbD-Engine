@@ -70,22 +70,26 @@ If you want video support on your mod, simply do haxelib install hxCodec on a Co
 
 
 
-### Link Case:
+### Link Function:
 
-The link case is this:
-
-![menu_link](https://user-images.githubusercontent.com/109924369/185994355-47370343-8db8-4679-8ba0-4c1e89916c42.png)
-
-(yeah its ugly but its the first version so)
-
-The function of the link case its like the donate case literally. (if you want, you can disable the link case in the Options/Visuals and Ui Options state)
+Pressing CONTROL, you can be redirected to a page or something (You can enable it in Visuals and UI options)
 
 ### Link Editor:
 
-The link editor its for the link case, in the link editor you can put the link who do you want for the link case. (That happends in a future update)
+The link editor its for the link function, in the link editor you can put the link who do you want for the link function. (In Development)
 
 Conceptual Art:
 ![conceptualartlink](https://user-images.githubusercontent.com/109924369/185999819-e5246ec4-94cd-4e37-b5a7-6d7098034658.png)
+
+(its a conceptual art cuz idk how to create a fucking FlxUITabMenu)
+
+### InGame Save file function:
+
+This is very usefull if you want some things enabled or disabled in something, for example, the options, you want to have the link function enabled, but you need the src to have it enabled in default, so, the InGame Save file function creates a save file in the game itself, with all the things in the configuration who do you want or idk. (idk how to explain good this function but ye.)
+
+### InGame Update (yeah like yoshicrafter engine)
+
+soon
 
 
 
