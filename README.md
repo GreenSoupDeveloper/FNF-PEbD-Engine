@@ -68,11 +68,43 @@ If you want video support on your mod, simply do haxelib install hxCodec on a Co
 
 ## Features:
 
+### A new menu:
 
+![Captura de pantalla 2022-08-25 171526](https://user-images.githubusercontent.com/109924369/186770268-3824529a-4bf9-49b3-8fd2-12c35fbcbddb.png)
+
+### A Exit Menu
+
+In the main menu, pressing ESCAPE, you can access to a Exit Menu.
+
+### Night BG:
+
+If it is night, the menu will be put in dark mode, so as not to hurt your eyes
+
+![Captura de pantalla 2022-08-25 192105](https://user-images.githubusercontent.com/109924369/186771233-668eabee-012c-4ff6-ba2a-78d63946b6b5.png)
 
 ### Link Function:
 
 Pressing CONTROL, you can be redirected to a page or something (You can enable it in Visuals and UI options)
+
+### A Developer Settings Section:
+
+its a new section for the options menu
+
+![Captura de pantalla 2022-08-25 171630](https://user-images.githubusercontent.com/109924369/186770572-79037443-4c9c-447b-bb1e-70dc3a13e132.png)
+
+## Enable or Disable Master Menu:
+
+Its a Option for enable or disable the master menu, if it is disabled, you cannot access to the master menu, if it is enabled, you can access.
+
+## Future Features:
+
+### InGame Save file function:
+
+This is very usefull if you want some things enabled or disabled in something, for example, the options, you want to have the link function enabled, but you need the src to have it enabled in default, so, the InGame Save file function creates a save file in the game itself, with all the things in the configuration who do you want or idk. (idk how to explain good this function but ye.)
+
+### InGame Update
+
+The  InGame Update its like the yoshicrafter engine, in the game, if a new update its avalaible, the game questions you if you want to update the game, if you want, the game be updating wihout downloading a release in github.
 
 ### Link Editor:
 
@@ -80,14 +112,11 @@ The link editor its for the link function, in the link editor you can put the li
 
 Conceptual Art:
 ![conceptualartlink](https://user-images.githubusercontent.com/109924369/185999819-e5246ec4-94cd-4e37-b5a7-6d7098034658.png)
+(its in development cuz idk how to create a fucking FlxUITabMenu)
 
-(its a conceptual art cuz idk how to create a fucking FlxUITabMenu)
+## Little Features:
 
-### InGame Save file function:
+### A cool bump effect on the menu.
 
-This is very usefull if you want some things enabled or disabled in something, for example, the options, you want to have the link function enabled, but you need the src to have it enabled in default, so, the InGame Save file function creates a save file in the game itself, with all the things in the configuration who do you want or idk. (idk how to explain good this function but ye.)
-
-### InGame Update (yeah like yoshicrafter engine)
-
-soon
+### A cool cube patron effect in the bg of the Options, Title, Master Menu, etc.
 
