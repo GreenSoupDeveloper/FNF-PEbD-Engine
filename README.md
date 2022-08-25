@@ -91,7 +91,3 @@ This is very usefull if you want some things enabled or disabled in something, f
 
 soon
 
-### Chart Auto Save
-
-
-soon
